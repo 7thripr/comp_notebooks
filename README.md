@@ -20,7 +20,7 @@ The objective was to achieve **high sentiment classification accuracy** across *
 
 ## Results
 - **ROC-AUC Score:** 1.0  
-- **Leaderboard Position:** (based on private leaderboard after competition close)
+- **Leaderboard Position:** 1 (based on private leaderboard after competition close)
 
 ## Competition Overview
 The **IndicTTS Deepfake Challenge** focused on detecting AI-generated speech across **16 Indian languages**, including Assamese, Bengali, Bodo, Dogri, Kannada, Malayalam, Marathi, Sanskrit, Nepali, English, Telugu, Hindi, Odia, Manipuri, Gujarati, and Tamil.  
